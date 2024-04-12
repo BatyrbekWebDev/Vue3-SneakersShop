@@ -8,12 +8,9 @@ const increment = () => {
 </script>
 
 <template>
-
   <h1>{{ count }}</h1>
   <button @click="increment">+</button>
-
+  <h1>Hello</h1>
 </template>
-
-
 
 <style scoped></style>
