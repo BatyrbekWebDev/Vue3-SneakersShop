@@ -11,7 +11,7 @@ const increment = () => {
 
     <h1>{{ count }}</h1>
     <button @click="increment">+</button>
-
+<h1></h1>
 </template>
 
 
