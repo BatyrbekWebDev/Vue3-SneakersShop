@@ -5,4 +5,3 @@ import MyHello from './components/MyHello.vue'
 <template>
   <MyHello />
 </template>
-
