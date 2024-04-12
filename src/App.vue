@@ -10,3 +10,4 @@ import MyHello from './components/MyHello.vue'
 </template>
 
 <style scoped></style>
+ 
