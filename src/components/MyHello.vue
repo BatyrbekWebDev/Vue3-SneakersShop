@@ -13,6 +13,7 @@ const increment = () => {
   <h1>Hello</h1>
   <h2>Что то изменили</h2>
   <h2>Еще что то изменили</h2>
+  <h2>Еще что то изменили</h2>
 </template>
 
 <style scoped></style>
